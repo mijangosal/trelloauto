@@ -1,8 +1,8 @@
 import requests, json
 from config import *
 
-key = 'a2fc53c2fb26aef4ade32eac59f2175c'
-token = 'a48476af086df18c02ff2dad0601a5bf0393ef06446cc402ed0e6f6928b8d064'
+key = '####################'
+token = '##############################################'
 
 card_id_dic = {
 'Junta aerodinámica': '5f3aa462f922ee3b9837a8e2',
